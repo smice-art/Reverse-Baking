@@ -1,4 +1,23 @@
 # Reverse Baking
 The Reverse Baker is a technical art tool that reverses the standard texture baking pipeline. Instead of baking materials into a single image texture, it scans an existing baked image (like an albedo or diffuse map), intelligently identifies the dominant base colors while ignoring baked-in shadows and highlights, and rebuilds them into discrete, editable Principled BSDF materials assigned precisely to the mesh geometry.
 
-[![Watch the tutorial](https://img.youtube.com/vi/fqYN2J2Ns1I?si=V-s6JaGORumWz8rH/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE](https://youtu.be/fqYN2J2Ns1I?si=V-s6JaGORumWz8rH))
+# Reverse Baking
+![Banner Image](images/your_image_name.png)
+
+## The Why
+(Write a brief paragraph here explaining how your K-Means clustering algorithm intelligently reassigns materials to mesh faces based on baked textures.)
+
+## Installation
+1. Download the latest release from the [Releases page](https://github.com/smice-art/Reverse-Baking/releases).
+2. In Blender, go to **Edit > Preferences > Get Extensions**.
+3. Click the dropdown in the top right and select **Install from Disk**.
+4. Select your `.zip` file.
+
+## Quick Start
+* **Preparation**: Ensure your mesh has an active material with an Image Texture node.
+* **Access**: Press 'N' in the 3D Viewport and navigate to the **Reverse Baker** tab.
+* **Parameters**: Adjust the cluster settings to define how many unique materials to extract.
+* **Generate**: Click "Generate Materials" to rebuild your node network.
+
+## Documentation
+Download the full technical guide here: [Documentation (PDF)](docs/your_help_file.pdf)
