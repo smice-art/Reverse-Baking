@@ -23,4 +23,5 @@ The idea behind this add-on was to create the possibility of reactivating the or
 Download the full technical guide here: [Documentation (PDF)](docs/Reverse%20Baker%20Blender%20Add.pdf)
 
 ## Video Tutorial
+This short video tutorial on YouTube is explaining the basic function.
 [![Watch the tutorial](https://img.youtube.com/vi/fqYN2J2Ns1I/0.jpg)](https://www.youtube.com/watch?v=fqYN2J2Ns1I)
