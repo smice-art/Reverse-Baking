@@ -31,3 +31,6 @@ Download the full technical guide here: [Documentation (PDF)](docs/Reverse%20Bak
 This short video tutorial on YouTube is explaining the basic function.
 
 [![Watch the tutorial](https://img.youtube.com/vi/fqYN2J2Ns1I/0.jpg)](https://www.youtube.com/watch?v=fqYN2J2Ns1I)
+
+## Blender
+![Blender](https://img.shields.io/badge/Blender-4.3%2B-orange)
