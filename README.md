@@ -24,4 +24,5 @@ Download the full technical guide here: [Documentation (PDF)](docs/Reverse%20Bak
 
 ## Video Tutorial
 This short video tutorial on YouTube is explaining the basic function.
+
 [![Watch the tutorial](https://img.youtube.com/vi/fqYN2J2Ns1I/0.jpg)](https://www.youtube.com/watch?v=fqYN2J2Ns1I)
