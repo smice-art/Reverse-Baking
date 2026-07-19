@@ -8,6 +8,8 @@ The Reverse Baker is a technical art tool that reverses the standard texture bak
 The idea behind this add-on was to create the possibility of reactivating the original material properties from a baked material texture, or at least in the form of an approximation of the original definition of the original material.
 
 ## Installation
+Note: Please download the file located under the Assets section of the latest Releases page, rather than the "Download ZIP" button on the main page.
+
 1. Download the latest release from the [Releases page](https://github.com/smice-art/Reverse-Baking/releases).
 2. In Blender, go to **Edit > Preferences > Get Extensions**.
 3. Click the dropdown in the top right and select **Install from Disk**.
