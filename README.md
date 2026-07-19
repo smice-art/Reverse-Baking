@@ -21,3 +21,6 @@ The Reverse Baker is a technical art tool that reverses the standard texture bak
 
 ## Documentation
 Download the full technical guide here: [Documentation (PDF)](docs/Reverse%20Baker%20Blender%20Add.pdf)
+
+## Video
+[![Watch the tutorial](https://img.youtube.com/vi/fqYN2J2Ns1I/0.jpg)](https://www.youtube.com/watch?v=fqYN2J2Ns1I)
