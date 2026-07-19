@@ -20,4 +20,4 @@ The Reverse Baker is a technical art tool that reverses the standard texture bak
 * **Generate**: Click "Generate Materials" to rebuild your node network.
 
 ## Documentation
-Download the full technical guide here: [Documentation (PDF)](docs/your_help_file.pdf)
+Download the full technical guide here: [Documentation (PDF)](docs/Reverse%20Baker%20Blender%20Add.pdf)
