@@ -34,5 +34,5 @@ This short video tutorial on YouTube is explaining the basic function.
 
 ## Blender
 ![Blender](https://img.shields.io/badge/Blender-4.3%2B-orange)
-![Blender](https://img.shields.io/badge/Blender-4.58B-orange)
-![Blender](https://img.shields.io/badge/Blender-5.0B-orange)
+![Blender](https://img.shields.io/badge/Blender-4.58-greenorange)
+![Blender](https://img.shields.io/badge/Blender-5.0-orange)
