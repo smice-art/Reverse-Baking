@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "reverse_baker"
+version = "1.0.0"
+name = "Reverse Baker"
+vendor = "SMICE.ART"
+tagline = "Reverse-bake textures into discrete materials with intelligent color clustering."
+description = "Extracts base colors from baked textures while ignoring baked lighting."
+maintainer = "Claudio Wabner <ice.smice@gmail.com>"
+type = "add-on"
+website = "https://superhivemarket.com/creators/smice"
+blender_version_min = "4.2.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+platforms = ["windows-x64", "macos-arm64", "linux-x64", "windows-arm64", "macos-x64"]

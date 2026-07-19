@@ -1,0 +1,25 @@
+Quick Start Guide
+
+Installation:
+
+	Place your __init__.py and blender_manifest.toml into a folder named reverse_baker.
+
+	Zip the folder.
+
+	In Blender, go to Edit > Preferences > Get Extensions, click the drop-down menu in the top right, and select Install from Disk. Select your zip file.
+
+How to Use:
+
+	Preparation: Select a 3D mesh in the viewport. Ensure it has an active material with an Image Texture node plugged into the Base Color of a Principled BSDF.
+
+	Access the Tool: Press N in the 3D Viewport to open the sidebar. Navigate to the newly created Reverse Baker tab.
+
+	Set Parameters:
+
+		Detail Grade: Defines how many unique color materials you want to extract (e.g., 5 means the top 5 dominant colors).
+
+		Shadow Tolerance: Increase this percentage to tell the algorithm to ignore baked lighting (shadows and highlights) and focus only on the base Hue.
+
+	Preview: Click Preview Clusters (Fast). The viewport will instantly switch to Solid Mode and display the calculated color groups directly on the mesh corners so you can check the accuracy of your sliders.
+
+	Extract: Once satisfied with the preview, click Generate Materials. The tool will automatically build the node trees, assign the new materials to the respective faces, and switch your viewport back to Material preview mode so you can see the final result.
