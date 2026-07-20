@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/blender-addon.jpg" alt="Reverse Baking Banner" width="100%">
+  <img src="images/addon.jpg" alt="Reverse Baking Banner" width="100%">
 </p>
 
 # Reverse Baking
