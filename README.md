@@ -6,7 +6,7 @@
 The Reverse Baker is a technical art tool that reverses the standard texture baking pipeline. Instead of baking materials into a single image texture, it scans an existing baked image (like an albedo or diffuse map), intelligently identifies the dominant base colors while ignoring baked-in shadows and highlights, and rebuilds them into discrete, editable Principled BSDF materials assigned precisely to the mesh geometry.
 
 # Screen Shot
-![Banner Image](images/1.jpg)
+![Banner Image](images/blender-addon.jpg)
 
 ## The Why
 The idea behind this add-on was to create the possibility of reactivating the original material properties from a baked material texture, or at least in the form of an approximation of the original definition of the original material.
