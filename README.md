@@ -1,6 +1,7 @@
 <p align="center">
   <img src="images/smice-arts.jpg" alt="Reverse Baking Banner" width="100%">
 </p>
+
 # Reverse Baking
 The Reverse Baker is a technical art tool that reverses the standard texture baking pipeline. Instead of baking materials into a single image texture, it scans an existing baked image (like an albedo or diffuse map), intelligently identifies the dominant base colors while ignoring baked-in shadows and highlights, and rebuilds them into discrete, editable Principled BSDF materials assigned precisely to the mesh geometry.
 
