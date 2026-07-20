@@ -33,6 +33,11 @@ This short video tutorial on YouTube is explaining the basic function.
 
 [![Watch the tutorial](https://img.youtube.com/vi/fqYN2J2Ns1I/0.jpg)](https://www.youtube.com/watch?v=fqYN2J2Ns1I)
 
+## Release Notes
+
+### v1.0.0 (July 20, 2026)
+- **Publishing**: First public upload of the Add-on.
+
 ## Blender
 ![Blender](https://img.shields.io/badge/Blender-4.3%2B-orange)
 ![Blender](https://img.shields.io/badge/Blender-4.58-greenorange)
